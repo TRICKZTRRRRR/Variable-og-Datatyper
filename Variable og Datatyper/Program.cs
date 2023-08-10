@@ -19,9 +19,9 @@ namespace Variable_og_Datatyper
             Console.WriteLine(Area.ToString());
             Console.ReadLine();
 
-            // I opgave B kører koden ikke, fordi den ikke kan konventere en int til en double
+            // I opgave B kører koden ikke, fordi en int ikke kan indeholde et kommetal
 
-            // I opgave C kører koden, fordi den godt kan konventere en int til en double
+            // I opgave C kører koden, fordi double godt kan indeholde et kommetal
         }
     }
 }
